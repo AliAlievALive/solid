@@ -9,3 +9,5 @@ and not be filled with excessive functionality
 4) Interface Segregation
 * Interfaces should not force classes to implement what they can't do.
 * Large interfaces should be divided into small ones.
+5) Dependency Inversion
+* Components should depend on abstractions, not on concretions
