@@ -1,6 +1,6 @@
 package com.abualim.solid;
 
-public class Circle implements Shape{
+public class Circle implements Shape {
     private final int radius;
 
     public Circle(int radius) {

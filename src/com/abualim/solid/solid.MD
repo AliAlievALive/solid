@@ -6,3 +6,6 @@ and not be filled with excessive functionality
 * in other words, you should not have to rewrite an existing class for implementing new features
 3) Liskov Substitution
 * This means that every subclass or derived class should be substitutable for their base or parent class
+4) Interface Segregation
+* Interfaces should not force classes to implement what they can't do.
+* Large interfaces should be divided into small ones.
